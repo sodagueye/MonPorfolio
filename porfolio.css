@@ -17,9 +17,6 @@
 }
 
 
-
-
-
 .skills .progress {
     height: 60px;
     display: block;
@@ -62,10 +59,10 @@
 
 
 
-@media screen and(max-width:768){
+/* @media screen and(max-width:768){
     
     .img1{
         border-radius: 50%;
     }
     
-}
+} */
